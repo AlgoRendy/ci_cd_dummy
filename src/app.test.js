@@ -16,4 +16,5 @@ describe('/test2 endpoint', () => {
       expect(response.text).toBe('Hallo henry')
     })
   })
+  
 /* eslint-enable */
